@@ -15,7 +15,7 @@ This test aims to look a developer to join us with some technical/personal skill
 
 ## **2 -  How do I get set up?** ##
 
-*  1 - Send a mail containing your **complete name** and your **phone** to **moacir@nitryx.com** with the subject: **"I want to do the test DEV-1"**
+*  1 - Send a mail containing your **complete name** and your **phone** to **danielcamargoslucarelli@gmail.com** with the subject: **"I want to do the test DEV-1"**
 *  2 - While you wait for the response with a link, setup your environment with **Java SDK 11.x**, [LTS **Node.js** version](https://nodejs.org/en/download/), **[Grails 4.x](https://grails.org/download.html)**   
 *  3 - Create an account on [BitBucket](https://bitbucket.org/) or [GitHub](https://github.com/) if you don't have one. It's free and you'll use to submit your test to us.
 *  4 - Once you received the response mail with a link, download the .zip file with the repository. 
