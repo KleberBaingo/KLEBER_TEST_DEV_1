@@ -59,7 +59,7 @@ ng serve
 
 ## **3 - INSTRUCTIONS** ##
 
-This test contains **4 tasks** described below. Create a **public** project on your Bitbucket(or GitHub) account named **<your name>_TEST_DEV_1**, **push** your work to the **master** branch, and send a mail to **moacir@nitryx.com** with:
+This test contains **4 tasks** described below. Create a **public** project on your Bitbucket(or GitHub) account named **<your name>_TEST_DEV_1**, **push** your work to the **master** branch, and send a mail to **danielcamargoslucarelli@gmail.com** with:
 
 *  the subject: **"Submitting for DEV-1"**
 *  a link to your project on Bitbucket (or GitHub)
